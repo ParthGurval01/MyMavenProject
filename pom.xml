@@ -3,7 +3,7 @@
   <groupId>com.wipro.maven.asg5</groupId>
   <artifactId>MyMavenPProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <packaging>war</packaging>
   
 <dependencies>
     <!-- JUnit 5 -->
